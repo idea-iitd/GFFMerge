@@ -18,6 +18,17 @@ If you use this code, please cite our papers:
 
 ```bibtex
 @inproceedings{
+anonymous2026gffmerge,
+title={{GFFMERGE}: Efficient Merging of Graph Neural Force Fields and Beyond},
+author={Anonymous},
+booktitle={Forty-third International Conference on Machine Learning},
+year={2026},
+url={https://openreview.net/forum?id=4L8bHiw2Jm}
+}
+```
+
+```bibtex
+@inproceedings{
 garg2025gnnmerge,
 title={{GNNMERGE}: {MERGING} {OF} {GNN} {MODELS} {WITHOUT} {ACCESSING} {TRAINING} {DATA}},
 author={Vipul Garg and Ishita Thakre and Sayan Ranu},
